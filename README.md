@@ -34,3 +34,5 @@ A repo for reference when I create TODOs with certain symbols.
     [?] question 4 (The quadratic equation that I tried to solve has resulted in errors in all methods. Be it factorisation, general equation, completing the square and just drawing it on the graph.)
   [+] Section C (Math teacher said we should try to do this, but it is not necessary for completion and submition.)
 ```
+# Random fact
+Yes the example above was from a screenshot I took a while ago. I decided to retype it out as I was bored. That said I thank every teacher that has taught me up till this point.
